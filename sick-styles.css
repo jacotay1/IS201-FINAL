@@ -1,0 +1,45 @@
+/* sick-styles.css */
+
+/* Font family styles */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Font color styles */
+  h1 {
+    color: navy;
+  }
+  
+  h2 {
+    color: steelblue;
+  }
+  
+  p {
+    color: cornflowerblue;
+  }
+  
+  /* Positioned and styled divs */
+  #blue-div {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+  }
+  
+  #lightblue-div {
+    background-color: lightblue;
+    padding: 10px;
+    border: 1px solid navy;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  #darkblue-div {
+    background-color: darkblue;
+    color: white;
+    padding: 15px;
+    margin: 10px;
+  }
